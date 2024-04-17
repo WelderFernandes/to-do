@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -18,11 +18,19 @@
   --dark-purple: #5E60CE;
 
   --blue: #4EA8DE;
-  --dark-blue: #1E6F9F;
+  --dark-blue: #5E60CE;
 
   --danger: #E25858;
 
 }
+
+#root {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 100% !important;
+}
+
 
 body {
     -webkit-font-smoothing: antialiased;
